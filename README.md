@@ -9,7 +9,7 @@ This Appication helps you trade cryptocurrency.
 Here are some screenshots of the interface:
 
 
-![Sample screenshot 1](https://cl.ly/0y2v1B2U1r1p)
+![Sample screenshot 1](https://d26dzxoao6i3hh.cloudfront.net/items/2L3Q3I261r1X0v0d2C0T/Loop_Trader.jpg?v=d7fef001)
 
 ## Technical details
 
